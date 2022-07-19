@@ -3,9 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=devxandef&show_icons=true&theme=dracula&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxandef&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Top languages" alt="Top languages" />
-</a>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -17,3 +15,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxandef&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    title="Top languages" alt="Top languages" />
+</a>
